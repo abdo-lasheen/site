@@ -225,6 +225,7 @@ header {
     display: flex;
     background-color: #f0f0f0;
     border-radius: 10px;
+    width: 80%;
 
 }
 
@@ -233,7 +234,7 @@ header {
 }
 
 .about-sec img {
-    width: 50%;
+    width: 60%;
     height: auto;
 }
 
